@@ -1,0 +1,6 @@
+D:\Storage\Bridge_11\CTG\JaeWook\MainCode\bin\Debug\MainCode.exe.config
+D:\Storage\Bridge_11\CTG\JaeWook\MainCode\bin\Debug\MainCode.exe
+D:\Storage\Bridge_11\CTG\JaeWook\MainCode\bin\Debug\MainCode.pdb
+D:\Storage\Bridge_11\CTG\JaeWook\MainCode\obj\Debug\MainCode.csproj.CoreCompileInputs.cache
+D:\Storage\Bridge_11\CTG\JaeWook\MainCode\obj\Debug\MainCode.exe
+D:\Storage\Bridge_11\CTG\JaeWook\MainCode\obj\Debug\MainCode.pdb
