@@ -1,0 +1,7 @@
+D:\Storage\Bridge_11\CTG\JaeWook\CodeTest\CodeTest\CodeTest\bin\Debug\CodeTest.exe.config
+D:\Storage\Bridge_11\CTG\JaeWook\CodeTest\CodeTest\CodeTest\bin\Debug\CodeTest.exe
+D:\Storage\Bridge_11\CTG\JaeWook\CodeTest\CodeTest\CodeTest\bin\Debug\CodeTest.pdb
+D:\Storage\Bridge_11\CTG\JaeWook\CodeTest\CodeTest\CodeTest\obj\Debug\CodeTest.csproj.AssemblyReference.cache
+D:\Storage\Bridge_11\CTG\JaeWook\CodeTest\CodeTest\CodeTest\obj\Debug\CodeTest.csproj.CoreCompileInputs.cache
+D:\Storage\Bridge_11\CTG\JaeWook\CodeTest\CodeTest\CodeTest\obj\Debug\CodeTest.exe
+D:\Storage\Bridge_11\CTG\JaeWook\CodeTest\CodeTest\CodeTest\obj\Debug\CodeTest.pdb
