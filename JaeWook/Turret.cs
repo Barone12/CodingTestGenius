@@ -8,17 +8,19 @@ class Program
 {
     static void Main(string[] args)
     {
-
-        int count = int.Parse(Console.ReadLine());
+        string inputCount = Console.ReadLine();
+        int count = int.Parse(inputCount);
         for (int i = 0; i < count; i++)
         {
             Console.Write(TurretRange());
+            Console.Write("\n");
         }
 
         int TurretRange()
         {
             int x1, y1, r1, x2, y2, r2;
-            string[] splitNum = Console.ReadLine().Split(' ');
+            string inputNum = Console.ReadLine();
+            string[] splitNum = inputNum.Split(' ');
 
             x1 = int.Parse(splitNum[0]);
             y1 = int.Parse(splitNum[1]);
@@ -27,9 +29,9 @@ class Program
             y2 = int.Parse(splitNum[4]);
             r2 = int.Parse(splitNum[5]);
 
-            int distanceOfCircles = (int)Math.Sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2));
-            int sumOfRadius = r1 + r2;//두 원의 반지름의 합
-            int differenceOfRadius = Math.Abs(r1 - r2);//두 원의 반지름 차
+            int distanceOfCircles = (x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2);//거리 제곱
+            int sumOfRadius = (int)Math.Pow((double)(r1 + r2),2.0d);//두 원의 반지름의 합
+            int differenceOfRadius = (int)Math.Pow((double)Math.Abs(r1 - r2), 2.0d);//두 원의 반지름 차
 
             if (distanceOfCircles == 0 && r1 == r2) return -1;//같음
             else if (distanceOfCircles == sumOfRadius) return 1;//외접
