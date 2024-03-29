@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -74,8 +74,8 @@ int main()
 }
 
 /*
-* ºñ¿ëÀ» ±âÁØÀ¸·Î ÃÖ¼Ò ½ºÆÐ´× Æ®¸®¸¦ ¸¸µç´Ù.
-* ºñ¿ëÀÌ Å« °£¼±ºÎÅÍ Â÷·Ê·Î ¸¸µé¾î c, v°¡ À¯´Ï¿ÂµÉ¶§±îÁö ÁøÇà.
-* c~v¸¦ ÀÕ´Â °£¼±À» Á¦¿ÜÇÑ ³ª¸ÓÁö °£¼±Àº ¹«½ÃÇÏ¸é µÈ´Ù.
-* ½Ã°£º¹Àâµµ°¡ O(n)ÀÌ¶ó¼­ ÃÖÃÊ Á¤·Ä(O(nlgn))¸¸ ÇÏ¸é ºü¸£°Ô ±¸ÇÒ ¼ö ÀÖ´Ù.
+* ë¹„ìš©ì„ ê¸°ì¤€ìœ¼ë¡œ ìµœì†Œ ìŠ¤íŒ¨ë‹ íŠ¸ë¦¬ë¥¼ ë§Œë“ ë‹¤.
+* ë¹„ìš©ì´ í° ê°„ì„ ë¶€í„° ì°¨ë¡€ë¡œ ë§Œë“¤ì–´ c, vê°€ ìœ ë‹ˆì˜¨ë ë•Œê¹Œì§€ ì§„í–‰.
+* c~vë¥¼ ìž‡ëŠ” ê°„ì„ ì„ ì œì™¸í•œ ë‚˜ë¨¸ì§€ ê°„ì„ ì€ ë¬´ì‹œí•˜ë©´ ëœë‹¤.
+* ì‹œê°„ë³µìž¡ë„ê°€ O(n)ì´ë¼ì„œ ìµœì´ˆ ì •ë ¬(O(nlgn))ë§Œ í•˜ë©´ ë¹ ë¥´ê²Œ êµ¬í•  ìˆ˜ ìžˆë‹¤.
 */
