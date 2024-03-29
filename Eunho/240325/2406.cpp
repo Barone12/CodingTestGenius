@@ -1,6 +1,6 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <vector>
-#include <algorithm>
+#include <algorithm>  
 using namespace std;
 
 int parent[1001];
@@ -80,8 +80,8 @@ int main()
 }
 
 /*
-* 1¹ø ÄÄÇ»ÅÍ°¡ ¸ðµç ÄÄÇ»ÅÍ°¡ ¿¬°áµÇ±â ¶§¹®¿¡, 1¹øÄÄÀÌ ¸Á°¡Áö´Â °æ¿ì¸¸ Ã¼Å©ÇÏ¸é µÈ´Ù.
-* ÇöÀç ±×·¡ÇÁ¿¡¼­ 1¹øÄÄÀ» Á¦¿ÜÇÑ »óÅÂ¿¡¼­ ¸ðµç °£¼±À» ¸®½ºÆ®¿¡ Ãß°¡ÇÏ°í
-* ÇØ´ç ¸®½ºÆ®¸¦ Å©·ç½ºÄ®·Î µ¹¸®¸é¼­ ÃÖ¼Ò ½ºÆÐ´× Æ®¸®¸¦ ±×¸°´Ù.
-* ÀÌ ¶§ Ãß°¡µÇ´Â °£¼±µé¸¸ µû·Î »Ì¾Æ³» °è»êÇÏ¸é ´äÀÌ ³ª¿Â´Ù.
+* 1ë²ˆ ì»´í“¨í„°ê°€ ëª¨ë“  ì»´í“¨í„°ê°€ ì—°ê²°ë˜ê¸° ë•Œë¬¸ì—, 1ë²ˆì»´ì´ ë§ê°€ì§€ëŠ” ê²½ìš°ë§Œ ì²´í¬í•˜ë©´ ëœë‹¤.
+* í˜„ìž¬ ê·¸ëž˜í”„ì—ì„œ 1ë²ˆì»´ì„ ì œì™¸í•œ ìƒíƒœì—ì„œ ëª¨ë“  ê°„ì„ ì„ ë¦¬ìŠ¤íŠ¸ì— ì¶”ê°€í•˜ê³ ,
+* í•´ë‹¹ ë¦¬ìŠ¤íŠ¸ë¥¼ í¬ë£¨ìŠ¤ì¹¼ë¡œ ëŒë¦¬ë©´ì„œ ìµœì†Œ ìŠ¤íŒ¨ë‹ íŠ¸ë¦¬ë¥¼ ê·¸ë¦°ë‹¤.
+* ì´ ë•Œ ì¶”ê°€ë˜ëŠ” ê°„ì„ ë“¤ë§Œ ë”°ë¡œ ë½‘ì•„ë‚´ ê³„ì‚°í•˜ë©´ ë‹µì´ ë‚˜ì˜¨ë‹¤.
 */
