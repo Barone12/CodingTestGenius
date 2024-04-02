@@ -1,5 +1,15 @@
 # CodingTestGenius
 
+---
+### Challenge Of Week
+
+
+[오리 문제 - 백준 12933](https://www.acmicpc.net/problem/12933) 
+
+---
+
+
+
 ## 개요
 코딩테스트를 꾸준히 하기 위한 모임입니다. 
 코테 공부해야지 해야지 싶지만 선뜻 손이 가지 않는 제 모습을 보고 만들었습니다.
