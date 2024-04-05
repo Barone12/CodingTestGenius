@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[오리 문제 - 백준 12933](https://www.acmicpc.net/problem/12933) 
+[상어 초등학교 - 백준 21608](https://www.acmicpc.net/problem/21608) 
 
 ---
 
