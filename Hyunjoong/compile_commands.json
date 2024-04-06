@@ -1,0 +1,8 @@
+[
+    {
+        "directory": "/Users/rpopic2/CodingTestGenius/",
+        "file": "*.cpp",
+        "command": "/usr/bin/clang++ -Wall -std=c++20"
+    }
+]
+
