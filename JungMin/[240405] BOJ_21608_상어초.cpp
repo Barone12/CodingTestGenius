@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 #include <queue>
 #include <cmath>
 using namespace std;
@@ -15,8 +14,7 @@ int main()
 	int num, prefer;
 	const int dx[4] = { 0, 0, -1, 1 };
 	const int dy[4] = { -1, 1, 0, 0 };
-
-	// 입력.
+	
 	for (int i = 0; i < N * N; i++)
 	{
 		cin >> num;
@@ -28,7 +26,6 @@ int main()
 		}
 	}
 
-	// 순서대로 학생 배치.
 	while (!order.empty())
 	{
 		int cur = order.front();
@@ -45,8 +42,7 @@ int main()
 
 				int temp_satisfaction = 0;
 				int temp_blank = 0;
-
-				// 상하좌우 체크.
+				
 				for (int k = 0; k < 4; k++)
 				{
 					int ny = y + dy[k];
@@ -69,8 +65,7 @@ int main()
 						}
 					}
 				}
-
-				// 현재 좌표 근처의 만족 칸, 빈 칸 개수 갱신.
+				
 				if (temp_satisfaction > satisfaction)
 				{
 					satisfaction = temp_satisfaction;
@@ -88,12 +83,10 @@ int main()
 					}
 				}
 			}
-		}
-		// 최적 좌석 배치.
+		}		
 		seats[proper_y][proper_x] = cur;
 	}
-
-	// 배치 끝난 후 만족도 조사.
+	
 	int answer = 0;
 	for (int i = 0; i < N; i++)
 	{
