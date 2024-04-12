@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[같이 눈사람 만들래? - 백준 20366]([https://www.acmicpc.net/problem/21608](https://www.acmicpc.net/problem/20366)) 
+[같이 눈사람 만들래? - 백준 20366](https://www.acmicpc.net/problem/20366) 
 
 ---
 
