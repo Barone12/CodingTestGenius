@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[상어 초등학교 - 백준 21608](https://www.acmicpc.net/problem/21608) 
+[같이 눈사람 만들래? - 백준 20366]([https://www.acmicpc.net/problem/21608](https://www.acmicpc.net/problem/20366)) 
 
 ---
 
