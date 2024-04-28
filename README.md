@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[1,2,3 더하기 2 - 백준 12101](https://www.acmicpc.net/problem/12101)
+[그래픽스 퀴즈 - 백준 2876](https://www.acmicpc.net/problem/2876)
 
 
 ---
