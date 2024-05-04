@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[그래픽스 퀴즈 - 백준 2876](https://www.acmicpc.net/problem/2876)
+[알약 - 백준 4811](https://www.acmicpc.net/problem/4811)
 
 
 ---
