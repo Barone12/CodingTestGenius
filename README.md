@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[알약 - 백준 4811](https://www.acmicpc.net/problem/4811)
+[거의 소수 - 백준 1456](https://www.acmicpc.net/problem/1456)
 
 
 ---
