@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[거의 소수 - 백준 1456](https://www.acmicpc.net/problem/1456)
+[이상한 술집 - 백준 13702](https://www.acmicpc.net/problem/13702)
 
 
 ---
