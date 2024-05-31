@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[이상한 술집 - 백준 13702](https://www.acmicpc.net/problem/13702)
+[팰린드롬 만들기 - 백준 1254](https://www.acmicpc.net/problem/1254)
 
 
 ---
