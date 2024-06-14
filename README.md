@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[팰린드롬 만들기 - 백준 1254](https://www.acmicpc.net/problem/1254)
+[카드 구매하기 - 백준 16194](https://www.acmicpc.net/problem/16194)
 
 
 ---
