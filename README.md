@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[카드 구매하기 - 백준 16194](https://www.acmicpc.net/problem/16194)
+[회전 초밥 - 백준 2531](https://www.acmicpc.net/problem/2531)
 
 
 ---
