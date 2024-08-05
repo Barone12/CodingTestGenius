@@ -4,7 +4,7 @@
 ### Challenge Of Week
 
 
-[회전 초밥 - 백준 2531](https://www.acmicpc.net/problem/2531)
+[직각 삼각형 - 백준 1711](https://www.acmicpc.net/problem/1711)
 
 
 ---
